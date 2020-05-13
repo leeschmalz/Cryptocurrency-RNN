@@ -6,3 +6,5 @@ Issues: The network takes approx 2-3 hours to train on my CPU, I do not have the
 
 The network only suggests buys/sells based on price movement up or down, no matter how big or small the change. In future models, I would like to figure in trading fees thus turning some "buys" into "do not buys" if fees change the prediction from profit to no profit. I think I will probably turn it into a regression network in the future, in which case this would be a very simple addition.
 Overall, I think this project taught me a lot about reccurent neural networks, which I haven't had much experience with in the past. I'm excited to build the regression model and see how it performs. Perhaps I'll borrow a friends GPU set-up to optimize the neuron layers in the future once the network is functional.
+
+(P.S. these api keys no longer exist)
